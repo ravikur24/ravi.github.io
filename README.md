@@ -1,2 +1,2 @@
-# ravi.github.io
-web
+# onlineshop
+Template website for online shopping
